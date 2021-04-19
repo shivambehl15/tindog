@@ -1,1 +1,1 @@
-This is tindog webstie which I created.
+This is tindog website which I created using HTML, CSS & Bootstrap.
