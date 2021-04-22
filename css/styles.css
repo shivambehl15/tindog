@@ -53,6 +53,10 @@ P{
     margin-right: 0 !important;
 }
 
+.nav-item{
+    text-align: right;
+}
+
 .navbar{
     padding: 0 0 4.5rem;
 }
